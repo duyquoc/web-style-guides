@@ -4,9 +4,9 @@ Other Style Guides
 
   - [React](react/)
   - [CSS-in-JavaScript](css-in-javascript/)
-  - [CSS & Sass](https://github.com/duyquoc/css)
-  - [PHP](https://github.com/duyquoc/php)
-  - [Ruby](https://github.com/duyquoc/ruby)
+  - [CSS & Sass](css/)
+  - [PHP](php/)
+  - [Ruby](ruby/)
 
 ## Table of Contents
 
