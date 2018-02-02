@@ -2,11 +2,11 @@
 
 Other Style Guides
 
-  - [React](react/)
-  - [CSS-in-JavaScript](css-in-javascript/)
-  - [CSS & Sass](css/)
-  - [PHP](php/)
-  - [Ruby](ruby/)
+  - [React](react.md)
+  - [CSS-in-JavaScript](css-in-javascript.md)
+  - [CSS & Sass](css.md)
+  - [PHP](php.md)
+  - [Ruby](ruby.md)
 
 ## Table of Contents
 
